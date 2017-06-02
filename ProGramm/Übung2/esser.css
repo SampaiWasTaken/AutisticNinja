@@ -1,0 +1,15 @@
+#container {
+    width: 1200px;
+    height: 675px;
+    background: #28f203;
+    margin: auto;
+    border: 10px solid black;
+    
+}
+#box{
+    width: 50px;
+    height: 50px;
+    background: red;
+    position: absolute;
+    vertical-align: middle; 
+}
