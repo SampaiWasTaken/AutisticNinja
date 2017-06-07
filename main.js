@@ -67,7 +67,7 @@ function component(width, height, color, x, y) {
   
 }
 
-function updateGameArea(){abcd
+function updateGameArea(){
     myGameArea.clear();
     ninja.speedX = 0;
     ninja.speedY = 0;  
